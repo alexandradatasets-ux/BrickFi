@@ -1,3 +1,4 @@
+// test
 import { MigrationInterface, QueryRunner } from 'typeorm';
 
 export class CreateInitialSchema1713000000000 implements MigrationInterface {
